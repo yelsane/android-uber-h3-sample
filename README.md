@@ -3,7 +3,7 @@
 # Android Uber H3 Sample
 A sample Android project that uses [Uber's h3-java library](https://github.com/uber/h3-java).
 
-Initially, following the intended [usage][1] as seen in their README should make it work. If it doesn't see the setup below.
+Initially, following the intended [usage][1] as seen in their README *should* make it work. If it doesn't, see the setup below.
 
 ## Setup
 
